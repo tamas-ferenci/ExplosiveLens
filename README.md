@@ -5,8 +5,9 @@ Ferenci Tamás (<https://www.medstat.hu/>)
 ## Bevezető gondolatok
 
 Ez a repozitórium a ‘Ferenci Tamás - Hétköznapi matematika: akusztikus
-lencsék tervezése atomfegyver-építéshez’ videóhoz tartozó illusztrációk
-teljes forráskódját tartalmazza.
+lencsék tervezése atomfegyver-építéshez’
+[videóhoz](https://www.youtube.com/watch?v=jMgfCpMaDXw) tartozó
+illusztrációk teljes forráskódját tartalmazza.
 
 ## A programkód
 

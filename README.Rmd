@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE, fig.width = 12, dpi = 300)
 
 ## Bevezető gondolatok
 
-Ez a repozitórium a 'Ferenci Tamás - Hétköznapi matematika: akusztikus lencsék tervezése atomfegyver-építéshez' videóhoz tartozó illusztrációk teljes forráskódját tartalmazza.
+Ez a repozitórium a 'Ferenci Tamás - Hétköznapi matematika: akusztikus lencsék tervezése atomfegyver-építéshez' [videóhoz](https://www.youtube.com/watch?v=jMgfCpMaDXw) tartozó illusztrációk teljes forráskódját tartalmazza.
 
 ## A programkód
 
